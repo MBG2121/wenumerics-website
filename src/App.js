@@ -31,8 +31,8 @@ function App() {
 
       <section className="section" id="contact">
         <h2>Contact Us</h2>
-        <p>Email: contact@wenumerics.com</p>
-        <p>Phone: +91-XXXXXXXXXX</p>
+        <p>Email: mangesh@wenumerics.com</p>
+        <p>Phone: +91-83906 47774</p>
       </section>
 
       <footer>
